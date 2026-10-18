@@ -1,0 +1,9 @@
+/build/
+plan.md
+status.md
+status.pdf
+build.md
+.vscode/
+.idea/
+.cache/
+/bin/
